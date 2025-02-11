@@ -1,3 +1,29 @@
-class Etablissement
-class Infrastructure
-class Hopitals
+The goal of this exercise is to practice inheritance and namespaces in C++ by modeling a simple system that includes infrastructure and people entities.
+
+Instructions
+
+1. Class Design
+
+Create a base class Infrastructure that represents a general structure.
+
+Derive a class Etablissement from Infrastructure, representing an institution.
+
+Derive a class Hopital from Etablissement, representing a hospital.
+
+
+
+2. Person Hierarchy
+
+Create a base class Personne with general attributes and methods.
+
+Derive a class Etudiant from Personne, representing a student.
+
+Derive a class Medecin from Personne, representing a doctor.
+
+
+
+3. Namespace Organization
+
+Use the namespace Individu to group all person-related classes (Personne, Etudiant, Medecin).
+
+Use the namespace Place to group all infrastructure-related classes (Infrastructure, Etablissement, Hopital).
