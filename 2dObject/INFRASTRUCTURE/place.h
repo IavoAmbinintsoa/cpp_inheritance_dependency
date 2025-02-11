@@ -1,0 +1,4 @@
+namespace place
+{
+    
+} // namespace place

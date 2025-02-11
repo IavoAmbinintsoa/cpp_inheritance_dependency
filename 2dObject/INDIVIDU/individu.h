@@ -1,0 +1,5 @@
+
+namespace individu
+{
+    
+} // namespace individu
