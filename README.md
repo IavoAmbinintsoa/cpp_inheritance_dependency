@@ -8,7 +8,7 @@ This repository demonstrates the concepts of **inheritance** and **dependency** 
 ### **1. Infrastructure Hierarchy**  
 - `Infrastructure` (Base class)  
 - `Etablissement` (Derived from `Infrastructure`)  
-- `Hopital` (Derived from `Etablissement`)  
+- `Hopital` (Derived from `Infrastructure`)  
 
 ### **2. Person Hierarchy**  
 - `Personne` (Base class)  
