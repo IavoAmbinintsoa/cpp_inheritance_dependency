@@ -32,5 +32,6 @@ g++ -o ville \
     Infrastructure/Etablissement/Etablissement.cpp \
     Infrastructure/Hopital/Hopital.cpp \
     Infrastructure/Infrastructure.cpp \
-    main.cpp test.cpp 
+    main.cpp test.cpp
+```
 This project provides a practical example of **object-oriented programming** principles, including inheritance and namespace usage in C++.
