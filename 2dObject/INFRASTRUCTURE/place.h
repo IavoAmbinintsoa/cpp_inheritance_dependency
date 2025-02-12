@@ -1,4 +1,0 @@
-namespace place
-{
-    
-} // namespace place
