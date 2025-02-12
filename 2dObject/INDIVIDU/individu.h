@@ -1,5 +1,0 @@
-
-namespace individu
-{
-    
-} // namespace individu
